@@ -1,2 +1,4 @@
-# Python
-接触py。。。。试试爬爬。。。
+### A simple crawler of ticket system
+
+
+A simple crawler of ticket system implemented in Python
